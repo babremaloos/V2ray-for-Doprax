@@ -1,4 +1,4 @@
-FROM nginx:mainline-alpine-slim
+FROM nginx:1.29.2-alpine3.22-slim
 MAINTAINER ifeng <https://t.me/HiaiFeng>
 EXPOSE 80
 USER root
